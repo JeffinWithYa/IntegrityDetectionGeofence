@@ -8,8 +8,8 @@ This sample demonstrates the use of BID (Blackberry Integrity Detection) to chec
 ## ScreenShots ##
 
 ![image](https://github.com/JeffinWithYa/Sample/blob/master/BID%20Location%20screenshot/bidlocn1%20(1).png) 
-![image] (https://github.com/JeffinWithYa/Sample/blob/master/BID%20Location%20screenshot/bidlocn2%20(1).png) 
-![image] (https://github.com/JeffinWithYa/Sample/blob/master/BID%20Location%20screenshot/bidlocn3%20(1).png)
+![image](https://github.com/JeffinWithYa/Sample/blob/master/BID%20Location%20screenshot/bidlocn2%20(1).png) 
+![image](https://github.com/JeffinWithYa/Sample/blob/master/BID%20Location%20screenshot/bidlocn3%20(1).png)
 
 ## How To Build ##
 
