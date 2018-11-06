@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">BID Location</string>
+    <string name="action_settings">About</string>
+    <string name="title_activity_add_location">Map</string>
+    <string name="add_location_button_string">Add Location</string>
+    <string name="clear_locations_button_string">Clear Locations</string>
+    <string name="draw_geofence">Tap the map to mark the center of the geofence. Drag the blue marker
+        at the edge of the circle to adjust it\'s radius. Tap \'Add Geofences\' to add your
+    geofences to the list of areas that will trigger a BID report upon entering/leaving them.</string>
+    <string name="add_geofence_button_text">Add Geofence(s)</string>
+    <string name="about_app">This sample demonstrates how to launch a Blackberry Integrity Detection
+        (BID) report when the user enters or exits a specified geofence.</string>
+
+    <!-- Error strings -->
+    <string name="not_connected">GoogleApiClient not yet connected. Try again.</string>
+    <string name="geofence_not_available">Geofence service is not available now</string>
+    <string name="no_geofences_in_list">Please populate your list of geofences.</string>
+    <string name="need_access_fine_location">Invalid permissions.
+        You need to use ACCESS_FINE_LOCATION with geofences</string>
+    <string name="geofence_too_many_geofences">Your app has registered too many geofences</string>
+    <string name="no_geofences_added_string">No geofences added</string>
+    <string name="geofence_too_many_pending_intents">
+        You have provided too many PendingIntents to the addGeofences() call
+    </string>
+    <string name="unknown_geofence_error">
+        Unknown error: the Geofence service is not available now
+    </string>
+    <string name="geofence_transition_invalid_type">
+        Geofence transition error: invalid transition type %1$d
+    </string>
+
+
+
+    <!-- Transition type strings -->
+    <string name="geofence_transition_entered">Entered</string>
+    <string name="geofence_transition_exited">Exited</string>
+    <string name="unknown_geofence_transition">Unknown Transition</string>
+
+    <!-- BID Strings -->
+    <string name="geofence_transition_notification_text">Click notification to return to app</string>
+    <string name="warning_msg">This Feature is only available on Blackberry Android devices.</string>
+    <string name="version_msg">Your device must be on Android 6.0 release.</string>
+    <string name="cert_available">BID certificate available.</string>
+    <string name="report_inserted">BID report inserted.</string>
+    <string name="title_activity_add_geo_fence_maps">Map</string>
+
+    <!-- Buttons and Dialog strings -->
+    <string name="enable_geofences">Enable geofences </string>
+    <string name="disable_geofences">Disable geofences</string>
+    <string name="remove_geofences">Remove all geofences</string>
+
+    <string name="geofences_added">Geofences Added</string>
+    <string name="geofences_removed">Geofences removed</string>
+    <string name="make_geofence_string">Make Geofence</string>
+    <string name="enter_name_for_locn_string">Enter geofence name below for location:\n </string>
+    <string name="geofences_added_to_fences_list">Geofence added to FENCES list</string>
+    <string name="how_to">How to</string>
+
+    <!-- Circle Properties on Map -->
+    <string name="properties_circle">Circle Properties</string>
+
+    <string name="map_circle_description">Add Geofence with circles on Google Maps.</string>
+
+</resources>
